@@ -2,8 +2,8 @@
 
 
 
-- 🛠️ Eu atualmente estou trabalhando em uma empresa de telecomunicações, sou telecom;
-- 📖 Atualmente estou estudando PYTHON, HTML5, CSS;
+- 🛠️ Eu atualmente estou trabalhando em uma empresa de telecomunicações... sou telecom;
+- 📖 No momento estou estudando PYTHON, HTML5, CSS;
 - 🔎 Eu procuro conteudo para poder praticar programação;
 
 
