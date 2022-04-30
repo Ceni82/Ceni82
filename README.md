@@ -19,10 +19,7 @@
   <img align="center" alt="Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django" height="80" width="90" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png">
 </div>
-  
-<div align="rigth">
-  <a href="http://www.avatarsinpixels.com/chibi/eyJTaG9lcyI6IjEiLCJQYW50cyI6IjE4IiwiVG9wIjoiMjAiLCJFeWVicm93cyI6IjEiLCJNb3V0aCI6IjUiLCJwYW50c1RvbmUiOiI0ZTRlNGUiLCJwYW50c1RvbmUyIjoiMzMzMzMzIiwidG9wVG9uZSI6IjAwMDAwMCJ9/1/show.png >
-</div>
+
   
   ##
   
