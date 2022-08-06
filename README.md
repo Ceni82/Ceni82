@@ -4,7 +4,7 @@
 
 - 🛠️ Eu atualmente estou trabalhando em uma empresa de telecomunicações... sou telecom;
 - 📖 No momento estou estudando HTML5, CSS, Bootstrap;
-- 🔎 Eu procuro conteudo para poder praticar programação;
+- 🔎 Eu procuro conteudo para poder praticar e estudar;
 
 <div align="left">
   <a href="https://github.com/Ceni82">
