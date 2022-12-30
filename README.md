@@ -3,7 +3,7 @@
 
 
 - 🛠️ Eu atualmente estou trabalhando em uma empresa de telecomunicações... sou telecom;
-- 📖 No momento estou estudando HTML5, CSS, Bootstrap;
+- 📖 No momento estou estudando HTML5, CSS, Bootstrap, Java Script e um cadinho de Python;
 - 🔎 Eu procuro conteudo para poder praticar e estudar;
 
 <div align="left">
