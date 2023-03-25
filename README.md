@@ -1,10 +1,13 @@
 ### Olá eu sou o Ceni!!! ✋
 
 
+Trabalho há dezesseis anos na área de telecomunicações (Via rádio/ fibra ótica), onde adquiri bastante experiência em trabalho com equipe, e na resolução de diversos problemas.
 
-- 🛠️ Eu atualmente estou trabalhando em uma empresa de telecomunicações... sou telecom;
-- 📖 No momento estou estudando HTML5, CSS, Bootstrap, JavaScript e um cadinho de Python;
-- 🔎 Eu procuro conteudo para poder praticar e estudar;
+Venho estudando programação há um tempo, mas este ano resolvi me dedicar totalmente à área de desenvolvimento para web, mais especificamente o Front-end.
+
+Realizo alguns projetos com HTML, CSS, Javascript, Bootstrap, Git, Github...
+
+Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
 
 <div align="left">
   <a href="https://github.com/Ceni82">
