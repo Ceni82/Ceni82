@@ -5,7 +5,7 @@ Trabalho há dezesseis anos na área de telecomunicações (Via rádio/ fibra ó
 
 Venho estudando programação há um tempo, mas este ano resolvi me dedicar totalmente à área de desenvolvimento para web, mais especificamente o Front-end.
 
-Realizo alguns projetos com HTML, CSS, Javascript, Bootstrap, Git, Github...
+Realizo alguns projetos com CSS, Javascript, Bootstrap e Python
 
 Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
 
