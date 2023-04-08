@@ -40,16 +40,18 @@ Mas tenho curtido muito o Back-end... ahhahaha
 
 <div align="left">
   <a href="https://github.com/Ceni82">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceni82&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Ceni82&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
- ##
-    
 </div>
-  <div style="display: inline_block"><br>
+ 
+ ------------
+ 
+   <div style="display: inline"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    
    <img align="center" alt="JavaScript" height="40" width="40" padding-left="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </div>
 
