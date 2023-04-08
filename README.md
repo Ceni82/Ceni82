@@ -27,7 +27,7 @@ Mas tenho curtido muito o Back-end... ahhahaha
 ------------
 
 
-#####  Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
+####** 🚧 Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
 
 
 ------------
