@@ -4,9 +4,13 @@
 
 
 ### 👽️ Sobre:
+
 Estudando programação na [Rocket Seat](https://www.rocketseat.com.br/).
+
 Focado nas artes do Front-end...
+
 Mas tenho curtido muito o Back-end... ahhahaha
+
 
 ------------
 
