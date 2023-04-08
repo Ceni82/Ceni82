@@ -1,13 +1,38 @@
-### Olá eu sou o Ceni!!! ✋
 
 
-Trabalho há dezesseis anos na área de telecomunicações (Via rádio/ fibra ótica), onde adquiri bastante experiência em trabalho com equipe, e na resolução de diversos problemas.
+ # Olá! Eu sou o Ceni!!! 🚀
 
-Venho estudando programação há um tempo, mas este ano resolvi me dedicar totalmente à área de desenvolvimento para web, mais especificamente o Front-end.
 
-Realizo alguns projetos com CSS, Javascript, Bootstrap e Python
+### 👽️ Sobre:
+Estudando programação na [Rocket Seat](https://www.rocketseat.com.br/).
+Focado nas artes do Front-end...
+Mas tenho curtido muito o Back-end... ahhahaha
 
-Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
+------------
+
+### 👷 Skills:
+-   *CSS3;*
+-   *Javascript;*
+-   *Bootstrap;*
+-  *Python;*
+-   *Figma;*
+- 	*Photoshop;*
+-	*Wordpress;*
+
+
+------------
+
+
+#####  Procuro uma oportunidade para desenvolver estas skills, e aprender novas na prática, pois acredito que a "mão na massa" é a melhor forma de fazer isto!
+
+
+------------
+
+#### 💬 Contatos:
+ <a href="https://instagram.com/dev_ceni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://discord.gg/Ceni#9166" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><a href = "mailto:mateus.ceni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/mateus-ceni-9a362a226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="https://gitlab.com/Ceni82" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-%ff4500?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+
+
+------------
 
 <div align="left">
   <a href="https://github.com/Ceni82">
