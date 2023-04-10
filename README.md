@@ -5,7 +5,7 @@
 
 ### 👽️ Sobre:
 
-Estudando programação na [Rocket Seat](https://www.rocketseat.com.br/).
+Estudante da [Rocket Seat](https://www.rocketseat.com.br/).
 
 Focado nas artes do Front-end...
 
