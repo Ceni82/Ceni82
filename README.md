@@ -5,11 +5,19 @@
 
 ### 👽️ Sobre:
 
+Sou Fiscal de Redes da [MHNET](https://mhnet.com.br/).
+
+Analise de Sistemas 2024 pela [Unifatecie](https://unifatecie.edu.br/).
+
 Estudante da [Rocket Seat](https://www.rocketseat.com.br/).
+
+
 
 Focado nas artes do Front-end...
 
 Mas tenho curtido muito o Back-end... ahhahaha
+
+E todo o processo!
 
 
 ------------
